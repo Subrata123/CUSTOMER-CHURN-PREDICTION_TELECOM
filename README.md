@@ -4,7 +4,7 @@ Customer Churn Prediction_Telecome Sector:
 Objective:
 ----------
 The cost of retaining a customer is always less than acquiring a new customer. Customer churn is one of the great challenges for the telecom industry.
-The dataset shared contains the customer information’s to whom company are provided the services for certain period of time. The objective is to look for general patterns in the provided data that would help to identify customers that are more likely to churn so that company can address those customer and prevent them from churn by addressing the right concerned areas.
+The dataset shared contains the customer information’s to whom companies are provided the services for certain period of time. The objective is to look for general patterns in the provided data that would help to identify customers that are more likely to churn so that company can address those customer and prevent them from churn by addressing the right concerned areas.
 
 Dataset:
 --------
